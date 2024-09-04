@@ -1,0 +1,116 @@
+/********************
+COLOR CHEAT SHEET
+
+Ff6d00 - light orange
+008aff - blue
+ffcb05 - yellow
+B9c0ca - light grey
+868e9b - gray
+
+********************/
+:root {
+    --primary-color: #008aff;
+    --primary-color-rgb: 86, 35, 216;
+    --secondary-color: #008aff;
+    --secondary-color-rgb: 106, 121, 250;
+    --tertiary-color: #e615af;
+    --tertiary-color-rgb: rgba(230, 21, 175, 1.0);
+}
+
+
+.dark-scheme .subtitle {
+    color: #ffffff;
+    border: solid 4px rgb(255, 109, 0, .25);
+    background: none;
+}
+
+.text-first {
+    --bs-text-opacity: 1;
+    color: #868e9b !important;
+}
+
+.text-primary {
+    --bs-text-opacity: 1;
+    color: #e68333 !important;
+}
+
+.text-secondary {
+    --bs-text-opacity: 1;
+    color: #ffcb05 !important;
+}
+
+.text-lastly {
+    --bs-text-opacity: 1;
+    color: #008aff !important;
+}
+
+.container{
+    text-align: center;
+}
+
+.de-spot wow fadeIn{
+    color: #008aff !important;
+}
+/*******************/
+
+/***** GENERAL *****/
+
+
+.carousel-inner  {
+    margin:auto !important;
+}
+
+.button  {
+    margin:auto !important;
+    
+}
+/*******************/
+
+.logo-main, .logo-mobile {
+    max-width: 70px !important;
+}
+
+.footerimage {
+    max-width: 70px !important;
+    
+}
+
+#faq {
+    margin-top: 500px;
+}
+
+#containervid {
+    display: flex;
+    width: 80%;
+    height: 80%;
+    overflow: hidden;
+}
+
+#video-container {
+    flex: 1;
+    overflow: hidden;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#text-container {
+    flex: 1;
+    padding: 20px;
+    overflow-y: auto;
+}
+
+.video {
+    max-width: 100%;
+    max-height: 100%;
+    width: auto;
+    height: auto;
+}W
+
+.img-fluid1 {
+    max-width: 80%;
+    max-height: 80%;
+    width: auto;
+    height: auto;
+    margin-top: 70px;
+}

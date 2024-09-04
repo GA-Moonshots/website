@@ -1,0 +1,225 @@
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+    
+    <head>
+    
+    
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Flaskinni App Template">
+    <meta name="author" content="A project produced by students at Gilmour Academy">
+    
+    
+    <title>Moonshots</title>
+    <link rel="icon" 
+      type="image/png" 
+      href="../../img/favicon.png">
+    <!-- Stylesheets & Fonts -->
+    <!-- CSS Files
+    ================================================== -->
+    <link href="../../css/bootstrap.min.css" rel="stylesheet" type="text/css" id="bootstrap">
+    <link href="../../css/plugins.css" rel="stylesheet" type="text/css" >
+    <link href="../../css/swiper.css" rel="stylesheet" type="text/css" >
+    <link href="../../css/style.css" rel="stylesheet" type="text/css" >
+    <link href="../../css/coloring.css" rel="stylesheet" type="text/css" >
+    <!-- color scheme -->
+    <link id="colors" href="../../css/colors/scheme-01.css" rel="stylesheet" type="text/css" >
+    
+    <link rel="stylesheet" href="../../css/custom.css" type="text/css" />
+</head>
+    <body id="page-top" class="dark-scheme"> 
+        
+        <div id="wrapper" class=" body-inner">
+            <div class="float-text show-on-scroll">
+                <span><a href="#">Scroll to top</a></span>
+            </div>
+            <div class="scrollbar-v show-on-scroll"></div>
+            <!-- page preloader begin -->
+            <div id="de-loader"></div>
+            <!-- page preloader close -->
+
+            
+                
+<!-- header begin -->
+<header class="transparent">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12">
+                <div class="de-flex sm-pt10">
+                    <div class="de-flex-col">
+                        <div class="de-flex-col">
+                            <!-- logo begin -->
+                            <div id="logo">
+                                <a href="index.html">
+                                    <img class="logo-main" src="../../img/logo.png" alt="" >
+                                    <img class="logo-mobile" src="../../img/logo.png" alt="" >
+                                </a>
+                            </div>
+                            <!-- logo close -->
+                        </div>
+                    </div>
+                    <div class="de-flex-col header-col-mid">
+                        <ul id="mainmenu">
+                            <li><a class="menu-item" href="#">Home</a>
+                            </li>
+                            <li><a class="menu-item" href="#photos">Team Photos</a>
+                            </li>
+                            <li><a class="menu-item" href="#resources">Resources</a>
+                            </li>
+                            <li><a class="menu-item" href="#faq">Questions</a> 
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</header>
+<!-- header close -->
+
+            
+              
+            
+<section class="m-t-80 p-b-150">
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-6">
+                <div class="page-error-404">404</div>
+            </div>
+            <div class="col-lg-6">
+                <div class="text-start">
+                    <h1 class="text-medium">Ooops, This Page Could Not Be Found!</h1>
+                    <p class="lead">The page you are looking for might have been removed, had its name changed, or is temporarily unavailable.</p>
+                    <div class="seperator m-t-20 m-b-20"></div>
+                </div>
+            </div>
+        </div>
+</section>
+
+
+
+            <footer>
+    <div class="container">
+        <div class="row gx-5">
+            <div class="col-lg-5">
+                <img class="footerimage" src="../../images/team/MoonshotsLogo.png" alt="" >
+
+                <div class="spacer-20"></div>
+                <p>Moonshots is the competitive robotics team at Gilmour Academy. We are registered as #21681 in the FIRST Tech Challenge.</p>
+            </div>
+            <div class="col-lg-2">
+                <div class="row">
+                    <div class="widget">
+                          <h5>Links</h5>
+                         <ul>
+                              <li><a href="#">Back to Top</a></li>
+                              <li><a target="_blank"href="https://www.gilmour.org">Gilmour Homepage</a></li>
+                              <li><a target="_blank"href="https://www.firstinspires.org/robotics/ftc">FTC Homepage</a></li>
+                              <li><a target="_blank"href="https://github.com/GA-Moonshots">Our Code</a></li>
+                          </ul>
+                      </div>
+                </div>
+            </div>
+            <div class="col-lg-5">
+                <div class="widget">
+                    <h5>Follow GA on</h5>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/GilmourAcademy/"target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://x.com/GilmourAcademy"target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.tiktok.com/@gilmouracademy"target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://www.youtube.com/@gilmouracademy5495"target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                    </div>
+                </div>
+                <div class="widget">
+                    <h5>Follow FTC on</h5>
+                    <div class="social-icons">
+                        <a href="https://www.facebook.com/FTCTeams/"target="_blank"><i class="fa-brands fa-facebook-f"></i></a>
+                        <a href="https://twitter.com/FIRSTweets"target="_blank"><i class="fa-brands fa-twitter"></i></a>
+                        <a href="https://www.tiktok.com/tag/firsttechchallenge"target="_blank"><i class="fa-brands fa-tiktok"></i></a>
+                        <a href="https://www.youtube.com/user/FIRSTTechChallenge"target="_blank"><i class="fa-brands fa-youtube"></i></a>
+                    </div>
+                </div>
+        </div>
+    </div>
+    <div class="subfooter">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-12">
+                    <div class="de-flex">
+                        <div class="de-flex-col">
+                            <a href="https://www.gilmour.org/" target="_blank">
+                                Copyright 2024 Gilmour Academy, website made by Gilmour students.
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>
+          
+        </div>
+    
+
+    
+    
+<!--Plugins-->
+<script src="../../js/plugins.js"></script>
+<script src="../../js/designesia.js"></script>
+<script src="../../js/swiper.js"></script>
+<script src="../../js/custom-marquee.js"></script>
+<script src="../../js/custom-swiper-2.js"></script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.1/moment-with-locales.min.js" integrity="sha512-LGXaggshOkD/at6PFNcp2V2unf9LzFq6LE+sChH7ceMTDP0g2kn6Vxwgg7wkPP7AAtX+lmPqPdxB47A0Nz0cMQ==" crossorigin="anonymous"></script>
+<script>
+moment.locale("en");
+function flask_moment_render(elem) {
+    const timestamp = moment(elem.dataset.timestamp);
+    const func = elem.dataset.function;
+    const format = elem.dataset.format;
+    const timestamp2 = elem.dataset.timestamp2;
+    const no_suffix = elem.dataset.nosuffix;
+    const units = elem.dataset.units;
+    let args = [];
+    if (format)
+        args.push(format);
+    if (timestamp2)
+        args.push(moment(timestamp2));
+    if (no_suffix)
+        args.push(no_suffix);
+    if (units)
+        args.push(units);
+    elem.textContent = timestamp[func].apply(timestamp, args);
+    elem.classList.remove('flask-moment');
+    elem.style.display = "";
+}
+function flask_moment_render_all() {
+    const moments = document.querySelectorAll('.flask-moment');
+    moments.forEach(function(moment) {
+        flask_moment_render(moment);
+        const refresh = moment.dataset.refresh;
+        if (refresh && refresh > 0) {
+            (function(elem, interval) {
+                setInterval(function() {
+                    flask_moment_render(elem);
+                }, interval);
+            })(moment, refresh);
+        }
+    })
+}
+document.addEventListener("DOMContentLoaded", flask_moment_render_all);
+</script>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/sweetalert/2.1.2/sweetalert.min.js" integrity="sha512-AA1Bzp5Q0K1KanKKmvN/4d3IRKVlv9PYgwFPvm32nPO6QS8yH1HO7LbgB1pgiOxPtfeg5zEn2ba64MUcqJx6CA==" crossorigin="anonymous"></script>
+<script src="../../js/custom.js"></script>
+
+    
+    
+
+  </body>
+</html>        
