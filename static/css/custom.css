@@ -114,3 +114,7 @@ B9c0ca - light grey
     height: auto;
     margin-top: 70px;
 }
+/* Map labels: team names have spaces; keep each on one line, links in label colour */
+.de-spot span { white-space: nowrap; }
+.de-spot span a { color: inherit; }
+.de-spot span a:hover { text-decoration: underline; }
